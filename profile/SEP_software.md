@@ -18,4 +18,4 @@ SEP has numerous software packages it has developed over the years in various st
 
 - A unix based processing system [SEPlib](https://github.com/SEP-software/SEPlib)
 
-- An IO [library] written in C++ for doing IO
+- An IO [library](https://github.com/SEP-software/genericIO) written in C++ for doing IO
