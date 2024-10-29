@@ -6,7 +6,7 @@ SEP has numerous software packages it has developed over the years in various st
 
 ## Python libraries
 
-- [SEP model builder](https://github.com/SEP-software/notebooks-syntheticmodel) allows you to build Synthetic earth models. An example set of notebooks can be found [here](https://github.com/SEP-software/notebook-synthetics).
+- [SEP model builder](https://github.com/SEP-software/notebooks-syntheticmodel) allows you to build Synthetic earth models. An example set of notebooks can be found [here](https://github.com/SEP-software/notebooks-syntheticmodel).
 
 - An python [inversion library](https://github.com/SEP-software/python-solver) that supports in-core/out-core of operator based inversion
 
